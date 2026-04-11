@@ -84,11 +84,11 @@ I'm a <strong>Data Scientist & Data Analyst</strong> from Bangladesh 🇧🇩<br
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal606&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=vishal606&show_icons=true&theme=tokyonight" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal606&layout=compact&theme=tokyonight&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=vishal606&layout=compact&theme=tokyonight" height="180"/>
 </div>
 
 
